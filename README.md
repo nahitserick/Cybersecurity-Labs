@@ -30,7 +30,7 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 | Ethical Hacking Laws and Compliance	                  | Legal Compliance and Ethical Considerations in Penetration Testing for Business Enquiry|
 | Security OS Utilization	 | Introduction to Parrot Security OS|
 
-## Tools
+## Tools Ive Used
 
 ### Network Security
 <div>
@@ -38,8 +38,6 @@ My journey in computer science has ignited a profound passion for cybersecurity,
     <img src="https://img.shields.io/badge/-Nmap/Zenmap-007ACC?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-4B0082?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-009639?&style=for-the-badge&logo=pfSense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF4800?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
 </div>
@@ -47,7 +45,6 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 ### Endpoint Protection
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ClamAV-3776AB?&style=for-the-badge&logo=ClamAV&logoColor=white" />
 </div>
 
 ### Vulnerability Management
@@ -65,7 +62,6 @@ My journey in computer science has ignited a profound passion for cybersecurity,
     <img src="https://img.shields.io/badge/-Metasploit-007ACC?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP_ZAP-4188D2?&style=for-the-badge&logo=OWASP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Enum4linux-555555?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GoBuster-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### SIEM
