@@ -13,8 +13,7 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Custom Firewall Rule Configuration	          | <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense</a> |
-| VPN Server Configuration | <a href="https://google.com">Detection Lab</a>Configuring a VPN Server with pfSense|
-| VPN Server Configuration         | Configuring a VPN Client for Secure File Transfers|
+| VPN Server Configuration | <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>|
 | Penetration Testing      | Penetration Testing a pfSense Firewall|
 | Network Traffic Analysis                  | Analyzing Network Traffic with Wireshark|
 | Network Defense Strategies | Defending Networks from a Simulated Attack|
@@ -121,7 +120,7 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 - Configuring Firewall Interfaces with PfSense
 - Monitoring and logging network traffic
 - <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense</a>
-- Configuring a VPN Server with pfSense
+- <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>
 - Configuring a VPN Client for Secure File Transfers
 - 10 Penetration testing a Pfsense Firewall
 - Analyzing Network Traffic with Wireshark
