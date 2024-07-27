@@ -17,6 +17,7 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 | Penetration Testing      | <a href="https://github.com/nahitserick/Penetration-Testing-a-pfSense-Firewall/blob/main/README.md">Penetration Testing a Pfsense Firewall</a>|
 | Network Traffic Analysis                  | Analyzing Network Traffic with Wireshark|
 | Technical Writing                  | <a href="https://github.com/nahitserick/Business-Inject-Incident-Report-on-CrowdStrike-Falcon-Sensor-Outage/blob/main/README.md">Business Inject: Incident Report on CrowdStrike Falcon Sensor Outage</a> , <a href="https://github.com/nahitserick/Business-Inject-Memo-to-CEO-Guidance-and-Recommendations-Following-EDR-Outage/blob/main/README.md">Business Inject: Memo to CEO: Guidance and Recommendations Following EDR Outage , <a href="https://github.com/nahitserick/Legal-Compliance-and-Ethical-Considerations-in-Penetration-Testing/blob/main/README.md">Business Inject: Legal Compliance and Ethical Considerations in Penetration Testing|
+| VPN Management	 | <a href="https://github.com/nahitserick/Configuring-a-VPN-Client-for-Secure-File-Transfers/blob/main/README.md">Configuring a VPN Client for Secure File Transfers|
 | Network Defense Strategies | Defending Networks from a Simulated Attack|
 | Secure Network Design	 | Designing a Secure Network Topology in GNS3|
 | Endpoint Protection Configuration	         | Configuring Windows Defender Firewall|
@@ -119,7 +120,7 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 - <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense</a>
 - <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>
 - <a href="https://github.com/nahitserick/Penetration-Testing-a-pfSense-Firewall/blob/main/README.md">Penetration Testing a Pfsense Firewall</a>
-- Configuring a VPN Client for Secure File Transfers
+- <a href="https://github.com/nahitserick/Configuring-a-VPN-Client-for-Secure-File-Transfers/blob/main/README.md">Configuring a VPN Client for Secure File Transfers
 - Analyzing Network Traffic with Wireshark
 - Advanced Web Vulnerabilities Assessment with OWASP ZAP
 - Analyzing Web-Based Vulnerabilities
