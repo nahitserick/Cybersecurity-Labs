@@ -16,7 +16,7 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 | VPN Server Configuration | <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>|
 | Penetration Testing      | Penetration Testing a pfSense Firewall|
 | Network Traffic Analysis                  | Analyzing Network Traffic with Wireshark|
-| Technical Writing                  | <a href="https://github.com/nahitserick/Business-Inject-Incident-Report-on-CrowdStrike-Falcon-Sensor-Outage/blob/main/README.md">Business Inject: Incident Report on CrowdStrike Falcon Sensor Outage</a> , <a href="https://github.com/nahitserick/Business-Inject-Memo-to-CEO-Guidance-and-Recommendations-Following-EDR-Outage/blob/main/README.md">Business Inject: Memo to CEO: Guidance and Recommendations Following EDR Outage|
+| Technical Writing                  | <a href="https://github.com/nahitserick/Business-Inject-Incident-Report-on-CrowdStrike-Falcon-Sensor-Outage/blob/main/README.md">Business Inject: Incident Report on CrowdStrike Falcon Sensor Outage</a> , <a href="https://github.com/nahitserick/Business-Inject-Memo-to-CEO-Guidance-and-Recommendations-Following-EDR-Outage/blob/main/README.md">Business Inject: Memo to CEO: Guidance and Recommendations Following EDR Outage , <a href="https://github.com/nahitserick/Legal-Compliance-and-Ethical-Considerations-in-Penetration-Testing/blob/main/README.md">Business Inject: Legal Compliance and Ethical Considerations in Penetration Testing|
 | Network Defense Strategies | Defending Networks from a Simulated Attack|
 | Secure Network Design	 | Designing a Secure Network Topology in GNS3|
 | Endpoint Protection Configuration	         | Configuring Windows Defender Firewall|
@@ -134,5 +134,5 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 - Introduction to Parrot Security OS
 - Vulnerability Scanning with Kali Linux and OpenVAS
 - <a href="https://github.com/nahitserick/Business-Inject-Incident-Report-on-CrowdStrike-Falcon-Sensor-Outage/blob/main/README.md">Business Inject: Incident Report on CrowdStrike Falcon Sensor Outage</a>
-- Business Inject: Legal Compliance and Ethical Considerations in Penetration Testing
+- <a href="https://github.com/nahitserick/Legal-Compliance-and-Ethical-Considerations-in-Penetration-Testing/blob/main/README.md">Business Inject: Legal Compliance and Ethical Considerations in Penetration Testing
 - <a href="https://github.com/nahitserick/Business-Inject-Memo-to-CEO-Guidance-and-Recommendations-Following-EDR-Outage/blob/main/README.md">Business Inject: Memo to CEO: Guidance and Recommendations Following EDR Outage
