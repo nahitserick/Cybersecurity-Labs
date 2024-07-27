@@ -14,7 +14,7 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 |-----------------------------------------------|----------------------------|
 | Custom Firewall Rule Configuration	          | <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense</a> |
 | VPN Server Configuration | <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>|
-| Penetration Testing      | Penetration Testing a pfSense Firewall|
+| Penetration Testing      | <a href="https://github.com/nahitserick/Penetration-Testing-a-pfSense-Firewall/blob/main/README.md">Penetration Testing a Pfsense Firewall</a>|
 | Network Traffic Analysis                  | Analyzing Network Traffic with Wireshark|
 | Technical Writing                  | <a href="https://github.com/nahitserick/Business-Inject-Incident-Report-on-CrowdStrike-Falcon-Sensor-Outage/blob/main/README.md">Business Inject: Incident Report on CrowdStrike Falcon Sensor Outage</a> , <a href="https://github.com/nahitserick/Business-Inject-Memo-to-CEO-Guidance-and-Recommendations-Following-EDR-Outage/blob/main/README.md">Business Inject: Memo to CEO: Guidance and Recommendations Following EDR Outage , <a href="https://github.com/nahitserick/Legal-Compliance-and-Ethical-Considerations-in-Penetration-Testing/blob/main/README.md">Business Inject: Legal Compliance and Ethical Considerations in Penetration Testing|
 | Network Defense Strategies | Defending Networks from a Simulated Attack|
@@ -118,8 +118,8 @@ My journey in computer science has ignited a profound passion for cybersecurity,
 - Monitoring and logging network traffic
 - <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense</a>
 - <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>
+- <a href="https://github.com/nahitserick/Penetration-Testing-a-pfSense-Firewall/blob/main/README.md">Penetration Testing a Pfsense Firewall</a>
 - Configuring a VPN Client for Secure File Transfers
-- 10 Penetration testing a Pfsense Firewall
 - Analyzing Network Traffic with Wireshark
 - Advanced Web Vulnerabilities Assessment with OWASP ZAP
 - Analyzing Web-Based Vulnerabilities
