@@ -2,7 +2,7 @@
 <a href="www.linkedin.com/in/erickrodriguezz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a third-year cybersecurity student with a passion for continuous learning and application security engineering.
+I am a passionate and detail-oriented cybersecurity student with over 2 years of experience in applying information security principles, conducting threat analysis, and performing vulnerability assessments. I have a strong passion for continuous learning and a keen interest in application security engineering.
 
 ## Objective
 
