@@ -6,7 +6,7 @@ I am a passionate and detail-oriented cybersecurity student with over 2 years of
 
 ## Objective
 
-My journey in computer science has ignited a profound passion for cybersecurity, particularly in application security engineering. I aim to leverage my skills and knowledge to contribute to the development of secure software applications, protecting against emerging threats and vulnerabilities. My goal is to join a dynamic team where I can continuously learn, innovate, and enhance security measures.
+My journey as an IT professional has ingited a passion for cybersecurity, particularly in the field of application security engineering. I aim to leverage my skills and knowledge to contribute to the development of secure software applications, protecting against emerging threats and vulnerabilities. My goal is to join a dynamic team where I can continuously learn, innovate, and enhance security measures.
 
 ## Skills
 
