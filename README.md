@@ -2,11 +2,11 @@
 <a href="www.linkedin.com/in/erickrodriguezz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a passionate and detail-oriented cybersecurity student with over 2 years of experience in applying information security principles, conducting threat analysis, and performing vulnerability assessments. I have a strong passion for continuous learning and a keen interest in application security engineering.
+I am a passionate and detail-oriented cybersecurity student with over 2 years of experience in applying information security principles, providing IT support, and implenting automation. I have a strong passion for continuous learning and a keen interest in security operations.
 
 ## Objective
 
-My journey as an IT professional has ingited a passion for cybersecurity, particularly in the field of application security engineering. I aim to leverage my skills and knowledge to contribute to the development of secure software applications, protecting against emerging threats and vulnerabilities. My goal is to join a dynamic team where I can continuously learn, innovate, and enhance security measures.
+My journey as an IT professional has ingited a passion for cybersecurity, particularly in the field of security operations and incident handling. I aim to leverage my skills and knowledge to contribute to the safety of digital assets by preventing breaches. My goal is to join a dynamic team where I can continuously learn, innovate, and enhance my skills in security operations.
 
 ## Skills
 
