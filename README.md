@@ -40,13 +40,10 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
     <img src="https://img.shields.io/badge/-Nmap/Zenmap-007ACC?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-4B0082?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-009639?&style=for-the-badge&logo=pfSense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF4800?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
 </div>
 
 ### Endpoint Protection
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### Vulnerability Management
