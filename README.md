@@ -14,6 +14,8 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
 
 **TryHackMe Modules:** Pyramid of Pain, Cyber Kill Chain, MITRE ATT&CK Framework, NMAP Fundamentals, Phishing Analysis, SQL Injection, HTTP In Detail
 
+**Collegiate Cyber Defense Competition (CCDC) Bootcamp:** Attended 8-week bootcamp, developing expertise in defensive security tools like Nmap, Splunk, and Nessus, hardening business systems across AD and AWS. 
+
 ## Skills
 
 | Skill                                         | Associated Project         |
