@@ -26,7 +26,7 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
 | Custom Firewall Rule Configuration	          | <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense</a> |
 | VPN Server Configuration | <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>|
