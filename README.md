@@ -8,6 +8,11 @@ I am a passionate and detail-oriented cybersecurity student with over 2 years of
 
 My journey as an IT professional has ingited a passion for cybersecurity, particularly in the field of security operations and incident handling. I aim to leverage my skills and knowledge to contribute to the safety of digital assets by preventing breaches. My goal is to join a dynamic team where I can continuously learn, innovate, and enhance my skills in security operations.
 
+## Cybersecurity Training
+
+HackTheBox Modules: Incident Handling, Security Monitoring & SIEM Fundamentals, Linux Fundamentals, Windows Fundamentals, Mac OS Fundamentals, Introduction to Networking, Introduction to Web Applications
+TryHackMe Modules: Pyramid of Pain, Cyber Kill Chain, MITRE ATT&CK Framework, NMAP Fundamentals, Phishing Analysis, SQL Injection, HTTP In Detail
+
 ## Skills
 
 | Skill                                         | Associated Project         |
