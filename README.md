@@ -16,6 +16,14 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
 
 **Collegiate Cyber Defense Competition (CCDC) Bootcamp:** Attended 8-week bootcamp, developing expertise in defensive security tools like Nmap, Splunk, and Nessus, hardening business systems across AD and AWS. 
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL%20v4%20Foundations-652D90?&style=for-the-badge&logo=ITIL&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+
+</div>
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -105,15 +113,6 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-</div>
-
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITIL%20v4%20Foundations-652D90?&style=for-the-badge&logo=ITIL&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-
 </div>
 
 ## Projects
