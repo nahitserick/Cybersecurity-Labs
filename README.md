@@ -11,6 +11,7 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
 ## Cybersecurity Training
 
 **HackTheBox Modules:** Incident Handling, Security Monitoring & SIEM Fundamentals, Linux Fundamentals, Windows Fundamentals, Mac OS Fundamentals, Introduction to Networking, Introduction to Web Applications
+
 **TryHackMe Modules:** Pyramid of Pain, Cyber Kill Chain, MITRE ATT&CK Framework, NMAP Fundamentals, Phishing Analysis, SQL Injection, HTTP In Detail
 
 ## Skills
