@@ -10,11 +10,18 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
 
 ## Cybersecurity Training
 
+**Ransomware Attack Simulation & Investigation Training – IntelliC0N 2025** Executed a full ransomware attack simulation, gaining initial access, setting up a C2 server with Empire C2, performing active reconnaissance, escalating privileges with Mimikatz, and deploying ransomware while conducting data exfiltration using Rclone.
+Investigated the attack using Splunk, Velociraptor, KAPE, and Hayabusa, conducting log and endpoint analysis, forensic timeline reconstruction, registry persistence analysis, and C2 traffic investigation to identify indicators of compromise.
+Gained hands-on experience in both offensive and defensive security techniques, reinforcing skills in threat hunting, digital forensics, incident response, and ransomware mitigation strategies.
+
+**ACC CTF Bootcamp** Created and Led a four-week CTF bootcamp, focused on enhancing hands-on skills in networking, web app security, reconnaissance, using tools like Nmap, Zap, and Burp Suite in preparation for CTF competitions.
+**Collegiate Cyber Defense Competition (CCDC) Bootcamp:** Attended 8-week bootcamp, developing expertise in defensive security tools like Nmap, Splunk, and Nessus, hardening business systems across AD and AWS. 
+
 **HackTheBox Modules:** Incident Handling, Security Monitoring & SIEM Fundamentals, Linux Fundamentals, Windows Fundamentals, Mac OS Fundamentals, Introduction to Networking, Introduction to Web Applications
 
 **TryHackMe Modules:** Pyramid of Pain, Cyber Kill Chain, MITRE ATT&CK Framework, NMAP Fundamentals, Phishing Analysis, SQL Injection, HTTP In Detail
 
-**Collegiate Cyber Defense Competition (CCDC) Bootcamp:** Attended 8-week bootcamp, developing expertise in defensive security tools like Nmap, Splunk, and Nessus, hardening business systems across AD and AWS. 
+
 
 ## Certifications
 <div>
