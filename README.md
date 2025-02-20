@@ -36,7 +36,7 @@ Gained hands-on experience in both offensive and defensive security techniques, 
 
 | Skill                                         | Associated Projects         |
 |-----------------------------------------------|----------------------------|
-| Custom Firewall Rule Configuration	          | <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense</a> |
+| Custom Firewall Rule Configuration	          | <a href="https://github.com/nahitserick/Configuring-Custom-Firewall-Rules-with-pfSense">Configuring Custom Firewall Rules with pfSense </a> |
 | VPN Server Configuration | <a href="https://github.com/nahitserick/VPN-Server-Configuration-with-pfSense">Configuring a VPN Server with pfSense</a>|
 | Penetration Testing      | <a href="https://github.com/nahitserick/Penetration-Testing-a-pfSense-Firewall/blob/main/README.md">Penetration Testing a Pfsense Firewall</a>|
 | Network Traffic Analysis                  | Analyzing Network Traffic with Wireshark|
