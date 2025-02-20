@@ -2,7 +2,7 @@
 <a href="www.linkedin.com/in/erickrodriguezz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a passionate and detail-oriented cybersecurity student with over 2 years of experience in applying information security principles, providing IT support, and implenting automation. I have a strong passion for continuous learning and a keen interest in security operations.
+I am a passionate and detail-oriented cybersecurity student with over 3 years of experience in applying information security principles, providing IT support, and implenting automation. I have a strong passion for continuous learning and a keen interest in security operations.
 
 ## Objective
 
