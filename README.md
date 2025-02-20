@@ -14,7 +14,8 @@ My journey as an IT professional has ingited a passion for cybersecurity, partic
 Investigated the attack using Splunk, Velociraptor, KAPE, and Hayabusa, conducting log and endpoint analysis, forensic timeline reconstruction, registry persistence analysis, and C2 traffic investigation to identify indicators of compromise.
 Gained hands-on experience in both offensive and defensive security techniques, reinforcing skills in threat hunting, digital forensics, incident response, and ransomware mitigation strategies.
 
-**ACC CTF Bootcamp** Created and Led a four-week CTF bootcamp, focused on enhancing hands-on skills in networking, web app security, reconnaissance, using tools like Nmap, Zap, and Burp Suite in preparation for CTF competitions.
+**ACC CTF Bootcamp** Created and Led a four-week CTF bootcamp, focused on enhancing hands-on skills in networking, web app security, reconnaissance, using tools like Nmap, Zap, and Burp Suite in preparation for CTF competitions.<a href="https://docs.google.com/document/d/1soxp0-oBRI1HF_EuXNWpmV-ARrIAmwTZ/edit?usp=sharing&ouid=114240751642210831363&rtpof=true&sd=true">ACC CTF Bootcamp</a
+
 **Collegiate Cyber Defense Competition (CCDC) Bootcamp:** Attended 8-week bootcamp, developing expertise in defensive security tools like Nmap, Splunk, and Nessus, hardening business systems across AD and AWS. 
 
 **HackTheBox Modules:** Incident Handling, Security Monitoring & SIEM Fundamentals, Linux Fundamentals, Windows Fundamentals, Mac OS Fundamentals, Introduction to Networking, Introduction to Web Applications
