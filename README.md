@@ -19,7 +19,7 @@ Gained hands-on experience in both offensive and defensive security techniques, 
 
 **HackTheBox Modules:** Incident Handling, Security Monitoring & SIEM Fundamentals, Linux Fundamentals, Windows Fundamentals, Mac OS Fundamentals, Introduction to Networking, Introduction to Web Applications
 
-**TryHackMe Modules:** Pyramid of Pain, Cyber Kill Chain, MITRE ATT&CK Framework, NMAP Fundamentals, Phishing Analysis, SQL Injection, HTTP In Detail
+**TryHackMe Modules:** Pyramid of Pain, Cyber Kill Chain, MITRE ATT&CK Framework, NMAP Fundamentals, Phishing Analysis, SQL Injection, HTTP In Detail, Networking Concepts, Vulnerabilites 101, Vulnerability Capstone, OWASP Top 10 - 2021, Introductiong to Metasploit, Introduction to OWASP ZAP, Cryptography Basics, Passive Reconnaissance, Active Reconnaissance, Enumeration and Brute Force, Linux Privilege Escalation, OWASP Juice Shop
 
 
 
